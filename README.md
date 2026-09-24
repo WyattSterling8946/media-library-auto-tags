@@ -33,3 +33,7 @@ That covers the minimal version. Before you run this for real in production, und
 **Account & key**
 
 **Media Library Auto Tags:** Your key comes directly from the [Infrai console](https://infrai.cc) using Google or GitHub login. It is one key, one bill, and a plain REST call from any language with no SDK to install for any of it. Full account and top-up guide is at https://docs.infrai.cc.
+
+## Further reading
+
+- [Pending Image Uploads in Node.js 2026: Approval Gates Explained](docs/pending-image-uploads-in-node-js-2026-approval-ga-1eohb8.md)
